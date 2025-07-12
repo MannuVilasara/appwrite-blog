@@ -1,0 +1,7 @@
+{
+  "name": "validate-setup",
+  "description": "Validate blog setup configuration",
+  "scripts": {
+    "validate": "node scripts/validate-setup.js"
+  }
+}
